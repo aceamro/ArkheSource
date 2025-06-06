@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+*/.DS_Store
+
+# Obsidian (필요하다면)
+# .obsidian/
+
+# 제외할 폴더 (만약 old 폴더 등을 제외하고 싶다면)
+# old/
+# 이야기/
