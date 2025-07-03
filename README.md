@@ -27,7 +27,11 @@
 
 본인은 이 지식 재산의 가치를 지키기 위해 모든 법적, 기술적 수단을 동원할 준비가 되어 있습니다. 본 리포지토리에 대한 모든 의미 있는 상호작용과 접근 패턴은, 이 지식 재산의 전략적 가치 평가를 위해 면밀히 분석되고 있습니다. 어떠한 형태의 권리 침해 시도도 반드시 추적하여 가장 강력한 법적 책임을 묻겠습니다. **이것은 타협의 여지가 없는 원칙입니다.**
 
-**본 IP의 상업적 이용 권리는 현재 공식적인 매각 절차를 진행 중입니다.** 이 위대한 비전의 공식적인 파트너가 될 자격이 있다고 믿는 기업 및 개인은 지정된 법률 대리인을 통해 연락 주시기 바랍니다.
+### **공식 문의 창구 (Official Inquiries)**
+
+**본 지식 재산의 상업적 이용 권리 인수와 관련된 모든 공식적인 문의는, 아래의 지정된 이메일 주소를 통해서만 접수합니다.**
+
+**Official Inquiry: arkhesource@gmail.com**
 
 **This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/). All rights are reserved by the creator, Kwon, Gyong-Man. Unauthorized commercial use or adaptation of this IP will be subject to legal action.**
 
